@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrianglelntersection", "FastTrianglelntersection\FastTrianglelntersection.csproj", "{DD78D4C1-A6BF-4419-8275-75D360E9DA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTriangleIntersection.Tests", "FastTriangleIntersection.Tests\FastTriangleIntersection.Tests.csproj", "{BCCA35BF-CDAA-444A-82B7-81A9F1FA91D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD78D4C1-A6BF-4419-8275-75D360E9DA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD78D4C1-A6BF-4419-8275-75D360E9DA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD78D4C1-A6BF-4419-8275-75D360E9DA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD78D4C1-A6BF-4419-8275-75D360E9DA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCA35BF-CDAA-444A-82B7-81A9F1FA91D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCA35BF-CDAA-444A-82B7-81A9F1FA91D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCA35BF-CDAA-444A-82B7-81A9F1FA91D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCA35BF-CDAA-444A-82B7-81A9F1FA91D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF436A88-B71E-466C-914D-AEF53A2DC8F9}
+	EndGlobalSection
+EndGlobal
